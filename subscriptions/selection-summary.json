@@ -1,0 +1,86 @@
+{
+  "source_url": "https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64.txt",
+  "decoded_links": 1187,
+  "parseable_nodes": 1187,
+  "unique_endpoints": 620,
+  "tcp_alive": 620,
+  "selected": 80,
+  "protocols": {
+    "ss": 45,
+    "hy2": 15,
+    "vless": 12,
+    "trojan": 8
+  },
+  "top10": [
+    {
+      "ms": 0.3,
+      "protocol": "ss",
+      "host": "37.120.131.62",
+      "port": 1080,
+      "name": "shadowsocks-184905727"
+    },
+    {
+      "ms": 0.4,
+      "protocol": "ss",
+      "host": "209.46.102.22",
+      "port": 8388,
+      "name": "shadowsocks-209"
+    },
+    {
+      "ms": 0.4,
+      "protocol": "ss",
+      "host": "185.156.174.106",
+      "port": 1080,
+      "name": "shadowsocks-184905706"
+    },
+    {
+      "ms": 0.4,
+      "protocol": "ss",
+      "host": "185.106.94.132",
+      "port": 1080,
+      "name": "shadowsocks-184905698"
+    },
+    {
+      "ms": 0.4,
+      "protocol": "ss",
+      "host": "103.106.229.69",
+      "port": 9090,
+      "name": "shadowsocks-11079"
+    },
+    {
+      "ms": 0.4,
+      "protocol": "ss",
+      "host": "193.29.139.168",
+      "port": 8080,
+      "name": "shadowsocks-198822224"
+    },
+    {
+      "ms": 0.4,
+      "protocol": "ss",
+      "host": "195.238.126.84",
+      "port": 9039,
+      "name": "shadowsocks-27309"
+    },
+    {
+      "ms": 0.4,
+      "protocol": "hy2",
+      "host": "23.95.75.151",
+      "port": 8080,
+      "name": "hysteria2-197583441"
+    },
+    {
+      "ms": 0.5,
+      "protocol": "vless",
+      "host": "195.15.213.66",
+      "port": 8082,
+      "name": "vless-202746762"
+    },
+    {
+      "ms": 0.5,
+      "protocol": "vless",
+      "host": "152.53.46.27",
+      "port": 443,
+      "name": "vless-203830545"
+    }
+  ]
+}
