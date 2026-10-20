@@ -1,86 +1,87 @@
 {
   "source_url": "https://github.com/Au1rxx/free-vpn-subscriptions/raw/main/output/v2ray-base64.txt",
-  "decoded_links": 1468,
-  "parseable_nodes": 1468,
-  "unique_endpoints": 465,
-  "tcp_alive": 430,
+  "decoded_links": 1416,
+  "parseable_nodes": 1416,
+  "unique_endpoints": 430,
+  "tcp_alive": 393,
   "selected": 80,
   "protocols": {
-    "ss": 14,
-    "vmess": 11,
-    "vless": 52,
-    "trojan": 3
+    "vless": 56,
+    "trojan": 6,
+    "vmess": 5,
+    "ss": 12,
+    "hy2": 1
   },
   "top10": [
     {
-      "ms": 17.4,
-      "protocol": "ss",
-      "host": "156.146.38.169",
-      "port": 443,
-      "name": "shadowsocks-1827146131"
-    },
-    {
-      "ms": 17.5,
-      "protocol": "ss",
-      "host": "156.146.38.167",
-      "port": 443,
-      "name": "shadowsocks-1827146556"
-    },
-    {
-      "ms": 17.6,
-      "protocol": "vmess",
-      "host": "104.21.57.84",
-      "port": 8443,
-      "name": "vmess-1827159496"
-    },
-    {
-      "ms": 17.6,
+      "ms": 6.1,
       "protocol": "vless",
-      "host": "104.17.50.53",
+      "host": "104.18.42.98",
       "port": 443,
-      "name": "vless-1831072390"
+      "name": "vless-1863464818"
     },
     {
-      "ms": 17.6,
-      "protocol": "vless",
-      "host": "104.16.10.63",
+      "ms": 6.2,
+      "protocol": "trojan",
+      "host": "141.193.213.172",
       "port": 443,
-      "name": "vless-1853491997"
+      "name": "trojan-1827149073"
     },
     {
-      "ms": 17.7,
-      "protocol": "vless",
-      "host": "104.18.26.90",
-      "port": 443,
-      "name": "vless-1827151082"
-    },
-    {
-      "ms": 17.8,
+      "ms": 6.4,
       "protocol": "vless",
       "host": "104.18.43.174",
       "port": 443,
-      "name": "vless-1853331571"
+      "name": "vless-1855726619"
     },
     {
-      "ms": 17.8,
+      "ms": 6.7,
+      "protocol": "vless",
+      "host": "104.17.123.134",
+      "port": 2087,
+      "name": "vless-1875770684"
+    },
+    {
+      "ms": 6.8,
+      "protocol": "vless",
+      "host": "104.18.41.190",
+      "port": 443,
+      "name": "vless-1874607823"
+    },
+    {
+      "ms": 6.9,
+      "protocol": "vless",
+      "host": "172.67.155.65",
+      "port": 2053,
+      "name": "vless-1833713778"
+    },
+    {
+      "ms": 6.9,
+      "protocol": "vless",
+      "host": "104.17.100.23",
+      "port": 2096,
+      "name": "vless-1875770689"
+    },
+    {
+      "ms": 7.2,
       "protocol": "vless",
       "host": "172.64.144.82",
       "port": 443,
-      "name": "vless-1853331503"
+      "name": "vless-1828036217"
     },
     {
-      "ms": 17.8,
-      "protocol": "trojan",
-      "host": "172.64.152.23",
-      "port": 443,
-      "name": "trojan-1853992680"
-    },
-    {
-      "ms": 17.8,
+      "ms": 7.4,
       "protocol": "vless",
-      "host": "104.16.10.234",
+      "host": "104.18.35.15",
       "port": 443,
-      "name": "vless-1863440034"
+      "name": "vless-1828142572"
+    },
+    {
+      "ms": 7.6,
+      "protocol": "vless",
+      "host": "104.17.186.242",
+      "port": 2087,
+      "name": "vless-1875770682"
     }
   ]
 }
